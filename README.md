@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning how to implement langchain in my apps
 
-- 📫 How to reach me: @warrenscode on X
+- 📫 How to reach me: warrenscode@gmail.com
 
 <!---
 warrensgit/warrensgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
