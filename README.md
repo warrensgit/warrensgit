@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in AI products and services. 
 
-- 🌱 I’m currently creating a Next.js boilerplate for AI makers.
+- 🌱 I’m currently creating a Next.js boilerplate for AI Builders.
 
 - 📫 How to reach me: warrenscode@gmail.com
 
