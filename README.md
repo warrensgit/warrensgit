@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in AI products and services. 
 
-- 🌱 I’m currently learning how to implement langchain in my apps
+- 🌱 I’m currently creating a Next.js boilerplate for AI makers.
 
 - 📫 How to reach me: warrenscode@gmail.com
 
