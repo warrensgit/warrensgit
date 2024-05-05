@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in AI products and services. 
 
-- 🌱 I’m currently working on LaunchNOW AI - a Next.js boilerplate for AI Builders.
+- 🌱 I’m currently working on WebsiteChatbot-Nextjs - an AI Sales chatbot that can be added to your website.
 
 - 📫 How to reach me: warrenscode@gmail.com
 
