@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @warrensgit
 
-- 👀 I’m interested in AI products and services. 
+- 👀 I build AI products and services. 
 
-- 🌱 I’m currently working on WebsiteChatbot-Nextjs - an AI Sales chatbot that can be added to your website.
+- 🌱 I’m currently working on InterviewPrepAI - an AI Powered interviewer that helps you prep for interviews. 
 
 - 📫 How to reach me: warrenscode@gmail.com
 
