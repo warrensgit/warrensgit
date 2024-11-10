@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @warrensgit
+👋 Hi, I’m @warrensgit
 
-- 👀 I build AI products and services. 
+👀 I build AI products and services. 
 
-- 🌱 I’m currently working on InterviewPrepAI - an AI Powered interviewer that helps you prep for interviews. 
+🌱 I’m currently working on InterviewPrepAI - an AI Powered interviewer that helps you prep for interviews. 
 
-- 📫 How to reach me: warrenscode@gmail.com
+📫 How to reach me: warrenscode@gmail.com
 
 <!---
 warrensgit/warrensgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
